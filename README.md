@@ -11,6 +11,11 @@ A scaled down version of self-driving system using Neual Networks and OpenCV. Th
 
 See the self-driving car in action (Note: an improved video is on its way!)
 
+### Train data collection process
+<a href="https://user-images.githubusercontent.com/48269869/158527945-524f701c-fc77-482b-a8b8-a387b47d7f40.PNG" target="_blank">
+<img src="https://user-images.githubusercontent.com/48269869/158527945-524f701c-fc77-482b-a8b8-a387b47d7f40.PNG" alt="IMAGE ALT TEXT HERE" width="480" height="300" border="10" />
+</a>
+
 
 ### Train data set
 <a href="https://user-images.githubusercontent.com/48269869/158394576-1eb27afa-a6dc-463e-a126-4472d0d23768.JPG" target="_blank">
